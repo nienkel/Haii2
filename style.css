@@ -1,0 +1,39 @@
+
+body {
+    font-size: 14px;
+    color: navy;
+}
+#top {
+    background-color: #ccc;
+    padding: 20px
+}
+h1 {
+    color: yellow;
+    background-color: blue;
+}
+h1 {
+    color: #ffc;
+    background-color: yellow;
+	
+}
+
+.intro {
+    color: #CD5C5C;
+    font-weight: bold;
+}
+h2 {
+    color: #6A5ACD;
+}
+
+
+#top {
+    background-color:#E6E6FA;
+    padding: 1em
+}
+#top h1 {
+    color: yellow ;
+}
+#top p {
+    color: red;
+    font-weight: bold;
+}
