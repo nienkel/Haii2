@@ -57,9 +57,45 @@ a:hover {
 input:focus, textarea:focus {
     background: #eee;
 }
-p {
+.random ;{
     margin-top: 10px;
     margin-right: 5px;
     margin-bottom: 10px;
     margin-left: 20px;
+}
+.random {
+    margin: 1px 5px 10px 20px;
+}
+.random {
+    border-width: 1px;
+    border-color: #98c379;
+    border-style: solid;
+}
+.random {
+    border: 1px#98c379 solid;
+}
+
+.random {
+    font: italic bold 12px/2 courier;
+}
+.cheese {
+    font: 14px/1.5 "Times New Roman", times, serif;
+    padding: 30px 10px;
+    border: 1px black solid;
+    border-width: 1px 5px 5px 1px;
+    border-color:#6c3c70;
+    margin: 10px 50px;
+}
+li { display: inline }
+p {
+    font-size: 12px;
+}
+
+p:first-letter {
+    font-size: 24px;
+    float: left;
+}
+
+p:first-line {
+    font-weight: bold;
 }
